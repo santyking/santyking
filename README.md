@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @santyking
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java Full Stack Development
-- 💞️ I’m looking to collaborate on any projects
-- 📫 You can reach men on Santosh.Mhatre93@gmail.com
+- 👀 I’m interested in Sharepoint Development
+- 🌱 I’m currently learning Sharepoint REST APIs using JQuery AJAX
+- 📫 You can reach me on Santosh.Mhatre93@gmail.com
 
 <!---
 santyking/santyking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
