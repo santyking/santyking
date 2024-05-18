@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @santyking
-- 👀 I’m interested in Sharepoint Development
-- 🌱 I’m currently learning Sharepoint Sharepoint Framework
+- 👋 Hi, I’m @santyking.
+- 👀 I’m interested in Sharepoint Development.
+- 🌱 I’m currently learning Sharepoint Sharepoint Framework.
 - 📫 You can reach me on Santosh.Mhatre93@gmail.com
 
 <!---
