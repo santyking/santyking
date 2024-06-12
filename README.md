@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santyking.
-- 👀 I’m interested in Sharepoint Development.
-- 🌱 I’m currently learning Sharepoint Sharepoint Framework.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning React JS.
 - 📫 You can reach me on Santosh.Mhatre93@gmail.com.
 
 <!---
