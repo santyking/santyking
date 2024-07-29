@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santyking.
-- 👀 I’m interested in Software Development.
+- 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning React JS.
 - 📫 You can reach me on Santosh.Mhatre93@gmail.com.
 
